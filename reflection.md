@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  jamie cole
+Sudent Email:  jcole05@syr.edu
 
 ## Instructions
 
@@ -22,4 +22,4 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
-
+For this assignment I was once again able to further familarize myself with the components of VS code, such as the testing and debugging capabilities. The terminal and debugging tools make it easier to track issues in real-time and iterate through my code quickly. With each assignemnt I find myself becoming more and more comfortable using VS code as opposed to jupyterhub. As for the the coding requirements I was able to break down the problem into manageable components, such as parsing the input data, calculating totals, and storing the results in JSON format. This allowed me to focus on one piece at a time, which made the task feel more approachable. Implementing the parsing function was a good exercise in string manipulation, and I enjoyed seeing how each function contributed to the final solution. 
