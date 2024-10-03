@@ -40,6 +40,5 @@ with open('data/packaging.txt') as f:
         unit = get_unit(package)
         print(f"{line} => total units: {total_units} {unit}")
         packages.append(package)
-
-with open('data/packaging.json', 'w') as f:
-    json.dump(packages, f, indent=4)
+        with open('data/packaging.json', 'w') as f:
+            json.dump(packages, f, indent=4)
