@@ -26,8 +26,6 @@ Example:
     ]    
 '''
 
-# TODO: Write code
-
 import json
 from packaging import parse_packaging, calc_total_units, get_unit
 

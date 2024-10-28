@@ -68,8 +68,6 @@ def get_unit(package: list[dict]) -> str:
     return list(package[0].keys())[0]
 
 
-# This will only run from here, not when imported
-# # Use this for testing / debugging cases with the debugger
 if __name__ == '__main__':
     
     text = "25 balls in 1 bucket / 4 buckets in 1 bin"
